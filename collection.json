@@ -1,0 +1,95 @@
+{
+  "schema": 2,
+  "tool": {
+    "name": "grabkit",
+    "version": "3.4.1"
+  },
+  "operator": "R.McA",
+  "host": {
+    "name": "ph-lt-0447",
+    "platform": "Windows 11 25H2",
+    "account": "NORTHVANE\\p.raman"
+  },
+  "collected": {
+    "start_utc": "2026-07-31T14:22:07Z",
+    "end_utc": "2026-07-31T14:23:41Z"
+  },
+  "retention_days": 90,
+  "files": [
+    {
+      "path": "AppData/Local/Google/Chrome/User Data/Default/Local Storage/leveldb/000138.ldb",
+      "bytes": 900777,
+      "sha256": "ab7ac25b48df31693fc0933dd20d4ff4e58513bce96906b538dd833c332d3fca"
+    },
+    {
+      "path": "AppData/Local/Google/Chrome/User Data/Default/Local Storage/leveldb/000144.ldb",
+      "bytes": 734691,
+      "sha256": "387255246ee4543dca7ae13eb2e6a833362da749dcfff5d1d1615f593eb7105f"
+    },
+    {
+      "path": "AppData/Local/Google/Chrome/User Data/Default/Local Storage/leveldb/000145.log",
+      "bytes": 589856,
+      "sha256": "a44593be85479c5d3035b4e73709e358042bdd49a2e4c34c6ba49d43f884048e"
+    },
+    {
+      "path": "AppData/Local/Google/Chrome/User Data/Default/Local Storage/leveldb/CURRENT",
+      "bytes": 16,
+      "sha256": "8b50c14115667f437268154693ef9b7725385d3651ec2965cc604dc9bac3ac5f"
+    },
+    {
+      "path": "AppData/Local/Google/Chrome/User Data/Default/Local Storage/leveldb/LOCK",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "AppData/Local/Google/Chrome/User Data/Default/Local Storage/leveldb/LOG",
+      "bytes": 282,
+      "sha256": "ae8dddc7d111254fa8600991581aa0f56bce3372b2b7b9a0880f1383745fd6eb"
+    },
+    {
+      "path": "AppData/Local/Google/Chrome/User Data/Default/Local Storage/leveldb/LOG.old",
+      "bytes": 154,
+      "sha256": "c56afe8fdc62594b9520339f95219b84abc16e23bd82992b41a758722f04bd7c"
+    },
+    {
+      "path": "AppData/Local/Google/Chrome/User Data/Default/Local Storage/leveldb/MANIFEST-000143",
+      "bytes": 281,
+      "sha256": "ec5069d26d990f70c9f1e4f3bf9d1a61d284f526dc8b6fedd93df2f58f31d1e6"
+    },
+    {
+      "path": "AppData/Local/Google/Chrome/User Data/Default/Session Storage/leveldb/000009.ldb",
+      "bytes": 1182,
+      "sha256": "ac3944c51d8daaa83a350e36cbbb131e2ebef9625caa293e3af3060090f3b7e6"
+    },
+    {
+      "path": "AppData/Local/Google/Chrome/User Data/Default/Session Storage/leveldb/000011.log",
+      "bytes": 978,
+      "sha256": "742d1027b56d29c2d7cb9dd765083718ad35e0c174da3228f5dad6543301360c"
+    },
+    {
+      "path": "AppData/Local/Google/Chrome/User Data/Default/Session Storage/leveldb/CURRENT",
+      "bytes": 16,
+      "sha256": "e91d13722e31f9b06c5df3582cad1ea5b73547ce3dc08b12ed461f095aad48ee"
+    },
+    {
+      "path": "AppData/Local/Google/Chrome/User Data/Default/Session Storage/leveldb/LOCK",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "AppData/Local/Google/Chrome/User Data/Default/Session Storage/leveldb/LOG",
+      "bytes": 148,
+      "sha256": "7a09da858838e1dbaee3cd8e8eab6108f2e7baf990925988a78a6e2e43f4ac80"
+    },
+    {
+      "path": "AppData/Local/Google/Chrome/User Data/Default/Session Storage/leveldb/LOG.old",
+      "bytes": 1534,
+      "sha256": "cfb1272a7c364ec8e708bec003a0931f3d8f57c510c3cebb8fde4762df8aae96"
+    },
+    {
+      "path": "AppData/Local/Google/Chrome/User Data/Default/Session Storage/leveldb/MANIFEST-000010",
+      "bytes": 120,
+      "sha256": "cd458ee08af1041374be967f5634dc913162973d64985cffb9be6c048fcc5254"
+    }
+  ]
+}

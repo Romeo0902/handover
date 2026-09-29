@@ -1,0 +1,15 @@
+2026/07/31-13:30:07.000000 4712 Recovering log #3
+2026/07/31-13:30:07.068797 4712 Level-0 table #5: started
+2026/07/31-13:30:07.145917 4712 Level-0 table #5: 1182 bytes OK
+2026/07/31-13:30:07.326453 4712 Delete type=0 #3
+2026/07/31-13:30:07.565783 4712 Delete type=3 #2
+2026/07/31-13:30:07.746010 4712 Level-0 table #8: started
+2026/07/31-13:30:07.957150 4712 Level-0 table #8: 0 bytes OK
+2026/07/31-13:30:08.180698 4712 Delete type=0 #6
+2026/07/31-13:30:08.414905 4712 Manual compaction at level-0 from '\x00' @ 72057594037927935 : 1 .. '\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff' @ 0 : 0; will stop at 'version' @ 1 : 1
+2026/07/31-13:30:08.464491 4712 Compacting 1@0 + 0@1 files
+2026/07/31-13:30:08.636311 4712 Generated table #9@0: 35 keys, 1182 bytes
+2026/07/31-13:30:08.697650 4712 Compacted 1@0 + 0@1 files => 1182 bytes
+2026/07/31-13:30:08.873186 4712 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/07/31-13:30:08.912663 4712 Delete type=2 #5
+2026/07/31-13:30:09.141426 4712 Manual compaction at level-0 from 'version' @ 1 : 1 .. '\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff\xff' @ 0 : 0; will stop at (end)
